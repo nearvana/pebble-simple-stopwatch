@@ -1,0 +1,27 @@
+{
+  "uuid": "7a6e778f-6ebc-400b-84bb-6bf107886340",
+  "shortName": "stopwatch",
+  "longName": "simple-stopwatch",
+  "companyName": "nearvana",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": [{
+          "type": "png",
+          "name": "BUTTON_IMAGE",
+          "file": "images/side thingie.png"
+        },
+ 	{
+          "menuIcon": true,
+          "type": "png",
+          "name": "IMAGE_MENU_ICON",
+          "file": "images/clock.png"
+        }]
+  }
+}
